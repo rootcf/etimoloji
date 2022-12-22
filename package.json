@@ -1,0 +1,34 @@
+{
+  "name": "etimoloji",
+  "version": "1.0.4",
+  "description": "Türkçe kelimelerin kökenlerini göstermek için https://api.etimolojiturkce.com/searchdetailed Adresine istek gönderen bir paket.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rootcf/etimoloji.git"
+  },
+  "keywords": [
+    "etimoloji",
+    "rootcf",
+    "turkce",
+    "kelime",
+    "kelimeler",
+    "npm",
+    "api",
+    "fetch"
+  ],
+  "dependencies": {
+    "axios": "^1.2.1",
+    "html2json": "^1.0.2"
+  },
+  "author": "rootcf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rootcf/etimoloji/issues"
+  },
+  "homepage": "https://github.com/rootcf/etimoloji#readme",
+  "devDependencies": {}
+}
