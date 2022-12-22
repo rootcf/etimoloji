@@ -3,6 +3,13 @@ Türkçe kelimelerin kökenlerini göstermek için https://api.etimolojiturkce.c
 
 ⚠ Bu paket sadece api.etimolojiturkce.com adresinden gelen çıktıları derli toplu bir şekilde kullanıcıya sunar. Hatalar oluşabilir. 
 
+## NPM 
+Paketin npm sayfasına [buradan](https://www.npmjs.com/package/etimoloji) ulaşabilirsiniz.
+
+### Yükleme
+```
+npm i etimoloji
+```
 
 ## Örnek Kullanım
 ```js
